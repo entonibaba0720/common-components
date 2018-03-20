@@ -1,17 +1,7 @@
-/* ==== GENERAL STYLES ==== */
-
-* {
-  box-sizing: border-box;
-}
-
-strong {
-  font-weight: 700;
-}
-
-/* ==== SIMPLE FOOTER ==== */
+/* ==== SIMPLE FOOTER STYLES ==== */
 
 footer {
-  background: url('https://orange.codeberryschool.com/content/images/project-assets/simple-footer.png') repeat center;
+  background: url('http://i.imgur.com/f4jGhSF.png') repeat center;
   display: table;
   width: 100vw;
   height: 8rem;
@@ -43,4 +33,14 @@ footer small {
 .footer-nav a:hover {
   color: #f26896;
   transition: color .15s ease-in-out;
+}
+
+/* ==== GENERAL STYLES ==== */
+
+* {
+  box-sizing: border-box;
+}
+
+strong {
+  font-weight: 700;
 }
